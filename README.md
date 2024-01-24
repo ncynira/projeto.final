@@ -24,10 +24,10 @@
 ### - Criação de um ambiente virtual Python:
 ### Para evitar conflitos com outras dependências do sistema, foi criado um ambiente virtual Python dedicado (myenv). 
 
-###  =Para ativação: 
+### Para ativação: 
 
-### -- No Windows: venv\Scripts\activate
-### -- No macOS e Linux: source venv/bin/activate
+### - No Windows: venv\Scripts\activate
+### - No macOS e Linux: source venv/bin/activate
 
 ### Agora, seu ambiente estará devidamente configurado, e você estará pronto para explorar e executar o projeto em Python.
 
